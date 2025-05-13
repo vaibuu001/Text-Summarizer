@@ -5,6 +5,6 @@
  
 ## Authors
   
-   - **[Amey Thakur](https://github.com/vaibuu001)**
+   - **[Vaibhav Sharma](https://github.com/vaibuu001)**
    
  
